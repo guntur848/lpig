@@ -6,10 +6,10 @@
 $config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
-$config['default_white_page'] = 'https://merchant.id/content/7-tips-untuk-membuat-konten-viral-di-media-sosial/';
+$config['default_white_page'] = 'white.php';
 
 /* PHP/HTML file or URL offer used for real users */
-$config['default_offer_page'] = 'https://inti.revopedia.app/';
+$config['default_offer_page'] = 'off.php';
 
 /* WHITE_PAGE render method. Available options: curl, 302 */
 /* 'curl' - uses a server request to display third-party whitepage on your domain */
