@@ -1,15 +1,15 @@
 <?php
-/===========================================================================================================/
+/*===========================================================================================================*/
 /*                                            CONFIGURATION                                                  */
-/===========================================================================================================/
+/*===========================================================================================================*/
 /* replace false with true to switch from debug to production mode */
 $config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
-$config['default_white_page'] = 'white.php';
+$config['default_white_page'] = 'https://merchant.id/content/7-tips-untuk-membuat-konten-viral-di-media-sosial/';
 
 /* PHP/HTML file or URL offer used for real users */
-$config['default_offer_page'] = 'off.php';
+$config['default_offer_page'] = 'https://inti.revopedia.app/';
 
 /* WHITE_PAGE render method. Available options: curl, 302 */
 /* 'curl' - uses a server request to display third-party whitepage on your domain */
@@ -72,7 +72,7 @@ $config['blocked_desktop'] = false;
 /* You Lisence key.                              */
 /* DO NOT SHARE Lisence KEY! KEEP IT SECRET!     */
 $config['lisence_key'] = '$2y$10$3sOGx/jaknPa0Vo20VsfhOHhQRrhozZ1a1R8SZTJPEbMMhfL8zZLa';
-/===========================================================================================================/
+/*===========================================================================================================*/
 
 $header = getallheaders();
 $header['server_data'] = $_SERVER;
