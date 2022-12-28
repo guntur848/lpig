@@ -6,7 +6,7 @@
 $config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
-$config['default_white_page'] = 'https://merchant.id/content/7-tips-untuk-membuat-konten-viral-di-media-sosial/';
+$config['default_white_page'] = 'https://www.dreambox.id/blog/digital-marketing/engagement-rate-marketing-pada-instagram-bisnis/';
 
 /* PHP/HTML file or URL offer used for real users */
 $config['default_offer_page'] = 'https://inti.revopedia.app/';
