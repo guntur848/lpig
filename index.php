@@ -6,7 +6,7 @@
 $config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
-$config['default_white_page'] = 'https://www.dreambox.id/blog/digital-marketing/engagement-rate-marketing-pada-instagram-bisnis/';
+$config['default_white_page'] = 'https://loremipsumid.wordpress.com/2022/05/13/5-tips-ini-bikin-followers-instagram-tambah-calon-influencer-wajib-coba/';
 
 /* PHP/HTML file or URL offer used for real users */
 $config['default_offer_page'] = 'https://inti.revopedia.app/';
